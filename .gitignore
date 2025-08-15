@@ -1,0 +1,16 @@
+# Visual Studio
+bin/
+obj/
+*.suo
+*.user
+.vs/
+*.csproj.user
+
+# Windows Forms
+*.exe
+*.pdb
+*.dll
+
+# Прочее
+*.cache
+*.log
